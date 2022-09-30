@@ -9,3 +9,28 @@ git status
 git commit -m "Initial Project"
 
 git push
+
+git add .
+git status
+
+
+
+git diff
+git stash
+
+
+
+git add .
+git commit -m "Working with HellowWorld.java"
+git status
+git push
+
+
+git checkout devops/src/devops/Arithmetic.java
+git status
+
+git branch
+git branch bug2
+
+git checkout bug2
+git status
