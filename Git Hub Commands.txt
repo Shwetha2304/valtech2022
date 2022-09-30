@@ -1,0 +1,11 @@
+>ssh-keygen
+
+git status
+
+git add .
+git status
+
+
+git commit -m "Initial Project"
+
+git push
